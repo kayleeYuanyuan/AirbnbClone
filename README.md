@@ -20,9 +20,3 @@ This project is a full-stack clone of the Airbnb website, built using the MERN s
 - **JWT (JSON Web Tokens)**: For user authentication and session management.
 - **Mongoose**: For interacting with MongoDB from Node.js.
 - **CSS/Styled Components**: For styling the frontend.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/airbnb-clone.git
